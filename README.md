@@ -10,6 +10,6 @@ Recommend a hotel for Expedia customer.
 Link : https://www.kaggle.com/c/expedia-hotel-recommendations/data
 
 # How to run
-1. Place train.csv, test.csv, destinations.csv and testlabels.csv in data folder.
+1. Place train.csv, test.csv, destinations.csv and testlabels.csv in 'data' folder.
 2. Run main.py.
 
